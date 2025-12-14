@@ -1,5 +1,6 @@
 return {
   ["146.103.26.136"] = "MWJMcFM2dHlGMG9zTlhHZA==",
   ["51.255.105.230"] = "Snd6RzliQ0REMmNEa3VvbA==",
+ ["146.103.26.136"] = "Snd6RzliQ0REMmNEa3VvbA==",
 }
 
