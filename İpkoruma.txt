@@ -1,5 +1,4 @@
 return {
-  ["10.41.124.130"] = "Snd6RzliQ0REMmNEa3VvbA==",
- ["51.255.105.230"] = "RkV4eW1sMEgzUQ==",
+    ["51.255.105.230"] = "RkV4eW1sMEgzUQ==", 
+    ["127.0.0.1"] = "W09uYXlsYV0="
 }
-
